@@ -1,0 +1,5 @@
+1. Deal Card
+2. Discard Card (if the pattern is same and the number is less than the other numbers available in the rest of the slots).
+3. Move Card (move card from one slot to another).
+4. Exit 
+5. Play Again

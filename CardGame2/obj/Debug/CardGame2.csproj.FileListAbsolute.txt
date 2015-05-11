@@ -1,0 +1,9 @@
+c:\users\nfs_omi\documents\visual studio 2012\Projects\CardGame2\CardGame2\bin\Debug\CardGame2.exe.config
+c:\users\nfs_omi\documents\visual studio 2012\Projects\CardGame2\CardGame2\bin\Debug\CardGame2.exe
+c:\users\nfs_omi\documents\visual studio 2012\Projects\CardGame2\CardGame2\bin\Debug\CardGame2.pdb
+c:\users\nfs_omi\documents\visual studio 2012\Projects\CardGame2\CardGame2\obj\Debug\CardGame2.csprojResolveAssemblyReference.cache
+c:\users\nfs_omi\documents\visual studio 2012\Projects\CardGame2\CardGame2\obj\Debug\CardGame2.exe
+c:\users\nfs_omi\documents\visual studio 2012\Projects\CardGame2\CardGame2\obj\Debug\CardGame2.pdb
+F:\sTUDY\aDVNCED oBJECT oRIENTED pROGRAMMING\Visual Studio 2012\Projects\CardGame2\CardGame2\bin\Debug\CardGame2.exe.config
+F:\sTUDY\aDVNCED oBJECT oRIENTED pROGRAMMING\Visual Studio 2012\Projects\CardGame2\CardGame2\obj\Debug\CardGame2.exe
+F:\sTUDY\aDVNCED oBJECT oRIENTED pROGRAMMING\Visual Studio 2012\Projects\CardGame2\CardGame2\obj\Debug\CardGame2.pdb
